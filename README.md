@@ -1,7 +1,6 @@
 # Freelances
-
+#index.html
 <!DOCTYPE html>
-<!-- Coding by CodingLab | www.codinglabweb.com-->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -93,3 +92,5 @@
     </script>
   </body>
 </html>
+
+#
